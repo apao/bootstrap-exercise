@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #660066;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: Chewy
+}
+
+h3 {
+    font-family: Chewy
+}
+
+th {
+    text-align: center
+}
+
+nav > div > ul > li > a {
+    color: white;
+}
